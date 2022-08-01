@@ -59,7 +59,7 @@
     "cli-table3": "^0.6.1",
     "combine-promises": "^1.1.0",
     "commander": "^5.1.0",
-    "copy-webpack-plugin": "^10.2.4",
+    "copy-webpack-plugin": "^11.0.0",
     "core-js": "^3.21.1",
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^3.4.1",
