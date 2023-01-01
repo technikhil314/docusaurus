@@ -70,7 +70,7 @@
     "eta": "^1.12.3",
     "file-loader": "^6.2.0",
     "fs-extra": "^10.0.1",
-    "html-minifier-terser": "^6.1.0",
+    "html-minifier-terser": "^7.1.0",
     "html-tags": "^3.2.0",
     "html-webpack-plugin": "^5.5.0",
     "import-fresh": "^3.3.0",
